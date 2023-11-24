@@ -13,7 +13,7 @@ public class CyberSecuritySpecialist {
 		String role = "Cybersecurity Engineer";
 		String[] interests = {"DevSecOps", "Automation", "Pentesting", "Cloud Engineering", "Algorithmic trading"};
 		String linkedin = "https://www.linkedin.com/in/imranhussain0";
-		String tryhackme = "https://tryhackme.com/p/Dunno";
+		String tryhackme = "https://tryhackme.com/p/Dunno](https://tryhackme.com/p/Dunno";
 		String codewars = "https://www.codewars.com/users/Dunno1";
 		
 		System.out.println(name + "\r\n" + role);
@@ -35,5 +35,4 @@ public class CyberSecuritySpecialist {
 ```
 
 [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imranhussain0)
-
 
